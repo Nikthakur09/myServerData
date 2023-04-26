@@ -34,12 +34,33 @@
 		},
 		{
 			"name": "Badshah",
-			"photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPLkKAG6TdGwtUNp3tSfoitfID_otDQ9iJr7DOuf5MQgkD5cfS21wZPS0kNUgpswyGfXGXjT2jJY&usqp=CAU&ec=48665701"
+			"photo": "https://www.koimoi.com/wp-content/new-galleries/2020/08/omg-rapper-badshah-grilled-for-over-9-hours-for-fake-followers-scam-to-soon-be-questioned-by-mumbai-crime-branch-001.jpg"
 		},
 		{
 			"name": "Diljit Dosanjh",
 			"photo": "https://st1.bollywoodlife.com/wp-content/uploads/2016/05/diljit-dosanjh.jpg"
+		},
+	    	{
+			"name": "Zayn malik",
+			"photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zayn_Wiki_%28cropped%29.jpg/800px-Zayn_Wiki_%28cropped%29.jpg"
+		},
+	    	{
+			"name": "Dino james",
+			"photo": "https://www.deccanherald.com/sites/dh/files/article_images/2020/01/05/file78pprz3o0287euyml8o-1578226266.jpg"
+		},
+	    	{
+			"name": "King",
+			"photo": "https://www.partymap.in/imgprof/singer-king.jpg"
+		},
+	    	{
+			"name": "Justin Bieber",
+			"photo": "https://media.gq.com/photos/56bcb218cdf2db6945d2ef93/master/pass/bieber-coverstory-square.jpg"
+		},
+	    	{
+			"name": "Selena Gomez",
+			"photo": "https://images.mid-day.com/images/images/2022/jun/Selena-Gomez-ik_d.jpg"
 		}
+	    
 
 	]
 }
